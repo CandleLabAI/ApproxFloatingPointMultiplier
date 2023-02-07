@@ -10,4 +10,14 @@ Functions:
 	9. sigprodlm.m => optimized approximate mantissa multilication for DTCL.
 	10. TDIL.m =>  Approximating floaing point multiplication using TDIL.
 	11. trunc_prodn.m => approximate mantissa multilication for TDIL.
+	12. DTCM.m => Approximating floaing point multiplication using DTCM.
 	
+If you use this code, please cite the following paper: Vishesh Mishra, Sparsh Mittal, Rekha Singhal, Manoj Nambiar (2023)  Novel, Configurable Approximate Floating-point Multipliers for Error-Resilient Applications In: 24th International Symposium on Quality Electronic Design (ISQED) California, USA
+
+@inproceedings { ref178,
+	title            = "Novel, Configurable Approximate Floating-point Multipliers for Error-Resilient Applications",
+	year             = "2023",
+	author           = "Vishesh Mishra and Sparsh Mittal and Rekha Singhal and Manoj Nambiar",
+	booktitle        = "24th International Symposium on Quality Electronic Design (ISQED)",
+	address          = "California, USA",
+	}
